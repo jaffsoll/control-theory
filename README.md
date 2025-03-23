@@ -36,4 +36,5 @@ control theory road map
 | *Optimal and Learning-based Control(Stanford)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://stanfordasl.github.io//aa203/) |
 | *Introduction to Reinforcement Learning(Hardvard)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://shamulent.github.io/CS_Stat184_Fall22.html) |
 | *Reinforcement Learning and Optimal Control(mit)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](http://web.mit.edu/dimitrib/www/RLbook.html) |
+| *Optimal Control and Estimation(princtone)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://stengel.mycpanel.princeton.edu/MAE546out.html) |
 ## roadmap
