@@ -37,4 +37,5 @@ control theory road map
 | *Introduction to Reinforcement Learning(Hardvard)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://shamulent.github.io/CS_Stat184_Fall22.html) |
 | *Reinforcement Learning and Optimal Control(mit)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](http://web.mit.edu/dimitrib/www/RLbook.html) |
 | *Optimal Control and Estimation(princtone)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://stengel.mycpanel.princeton.edu/MAE546out.html) |
+| *A Mathematical Introduction to Robotic Manipulation(caltech)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://www.cds.caltech.edu/~murray/mlswiki/index.php?title=First_edition) |
 ## roadmap
