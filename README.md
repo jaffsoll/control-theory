@@ -51,5 +51,7 @@ control theory road map
    | Title | Link |
 |-------|--------|
 | * Quantum Information Science(MIT)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/welcome/Introduction_to_8_370_1x/) |
+| * Quantum Processes, Systems and Information(book)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/welcome/Introduction_to_8_370_1x/) |
+| *Quantum Cryptography(edx)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://learning.edx.org/course/course-v1:CaltechDelftX+QuCryptox+3T2017/block-v1:CaltechDelftX+QuCryptox+3T2017+type@sequential+block@df1791c1024740b58dbfedb249504684/block-v1:CaltechDelftX+QuCryptox+3T2017+type@vertical+block@1b0bf13733cd4c44bc83fe62c5b75cb8) |
 
 ## roadmap
