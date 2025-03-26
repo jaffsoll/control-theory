@@ -46,4 +46,10 @@ control theory road map
 |-------|--------|
 | *Introduction to Neural Computation(MIT)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/) |
 
+
+ ### quantum mechanic and information(resources)
+   | Title | Link |
+|-------|--------|
+| * Quantum Information Science(MIT)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/welcome/Introduction_to_8_370_1x/) |
+
 ## roadmap
