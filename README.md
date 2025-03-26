@@ -40,4 +40,10 @@ control theory road map
 | *A Mathematical Introduction to Robotic Manipulation(caltech)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://www.cds.caltech.edu/~murray/mlswiki/index.php?title=First_edition) |
 | *Richard M. Murray_mainpage(caltech)* | [mainpage](https://murray.cds.caltech.edu/Main_Page) |
 
+
+ ### neuroscience and computer science(resources)
+   | Title | Link |
+|-------|--------|
+| *Introduction to Neural Computation(MIT)* | [ocw.mit.edu/courses/16-323-principles-of-optimal-control](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/) |
+
 ## roadmap
